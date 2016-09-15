@@ -24,6 +24,10 @@ branches will diverse from the main project and keep it untouched, so you can wo
 
 How do the diagrams help you visualize the branch structure?
 
+helps a lot, it actually makes thing clearer to understand and follow.
+
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
