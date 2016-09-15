@@ -5,8 +5,14 @@ You set up the directory to be using Git, which you will need for version contro
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+it is a transition stage, to make sure working directory is not altered and result in damage of filess. sort of like a working copy of a file.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+by grouping the logical change in the area and after completing the logical change, make the commit
+
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
