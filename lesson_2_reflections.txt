@@ -31,5 +31,10 @@ helps a lot, it actually makes thing clearer to understand and follow.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+
+it combines the 2 branches to a single one, merging all the features.
+it is easier to understand in a diagram lke the one presented.
+
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
