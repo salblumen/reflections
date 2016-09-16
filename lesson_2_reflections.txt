@@ -38,3 +38,10 @@ it is easier to understand in a diagram lke the one presented.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automation saves the work of routinely removing things that we were sure that we will remove after the modifications.
+Manual merge help us to decide the tricky issues, when some modifications have been done to the same part of code.
+
+pros, give us the chance to decide, will result in a more coherent merge, and function of the code will not be result in trash
+cons, time consuming, issue on knowing the functionality.
+
