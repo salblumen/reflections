@@ -11,7 +11,7 @@ Same as commiting, it is more convinient to have a pull when you completed a log
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+branches are created for different features or flavors of the same project, as per clones is copying the whole repository either locally or from github to our computer. Forking is the process of cloning a repository inside github, in which we can work and develop.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
