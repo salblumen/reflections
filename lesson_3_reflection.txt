@@ -16,7 +16,8 @@ branches are created for different features or flavors of the same project, as p
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+you can make changes offline and then verify any new changes added by other contributors remotely 
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
