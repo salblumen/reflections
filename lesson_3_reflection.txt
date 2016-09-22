@@ -22,7 +22,8 @@ you can make changes offline and then verify any new changes added by other cont
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+you would need to send pieces of your changes to other peers, and after reviewing they will incorporated the changes or request a modification if anything is wrong.. easier would be the use of Git and Github!
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
